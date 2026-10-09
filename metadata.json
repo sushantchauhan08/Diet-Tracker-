@@ -1,0 +1,6 @@
+{
+  "name": "Diet Tracker",
+  "description": "Log meals, calculate calories, track protein, and seek AI-powered food recognition and recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
